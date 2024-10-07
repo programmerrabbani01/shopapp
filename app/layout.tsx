@@ -10,7 +10,7 @@ import { Toaster } from "@/components/ui/toaster";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "WebDev Shop | next js",
+  title: "Shop-App | next js",
   description: "WebDev warriors shop using next js 14",
 };
 
